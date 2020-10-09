@@ -27,8 +27,7 @@ class App extends Component {
          
     };
     this.handleCreateClick = this.handleCreateClick.bind(this);
-    this.handleSaveClick = this.handleSaveClick.bind(this);
-    this.handleRemoveClick = this.handleRemoveClick.bind(this);
+    
     
   
   }
